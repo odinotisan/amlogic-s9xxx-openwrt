@@ -56,3 +56,4 @@ git clone https://github.com/aircrack-ng/rtl8812au.git package/kernel/rtl8812au
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lean/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
 git clone https://github.com/kenzok8/small.git package/dumpsmall && rm -rf package/dumpsmall/.git && rm -rf package/dumpsmall/.gitignore && mv package/dumpsmall/* package/lean
+git clone https://github.com/odinotisan/rtl8812au-ac.git package/kernel/rtl8812au-ac
