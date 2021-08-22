@@ -55,3 +55,4 @@ svn co https://github.com/hubutui/p7zip-lede/trunk package/p7zip
 git clone https://github.com/aircrack-ng/rtl8812au.git package/kernel/rtl8812au
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lean/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
+git clone https://github.com/kenzok8/small.git package/lean && rm -rf package/lean/.git
